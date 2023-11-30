@@ -1,0 +1,178 @@
+body{background-color: rgb(238, 238, 238)5, 255, 255;}
+section{text-align: center;
+}
+
+#capa{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://liderancacomvalores.com.br/wp-content/uploads/2020/08/vivo-energia-renovavel-1300x731.jpg");
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+p{image-resolution: azure;}
+h1{color:
+     rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);}
+#caixa{
+width: 100%;
+border: 300% solid black;
+height: auto;
+}
+img{
+    border: 3px solid rgb(0, 0, 0);
+}
+body{
+    border: 3px solid black;
+}
+ #botao:hover{
+    background-color: rgba(255, 255, 255, 0);
+    color:rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 30px;
+    
+}
+h1{
+    text-shadow: 2px -2px rgba(0, 0, 0, 0);
+    padding: 5px;
+    border-radius: 50px;
+}
+#ods{
+    margin-top: 100px;
+    border: 50%;
+    border-radius: 40px;
+    border-bottom: 10px;
+
+}
+#video{
+    margin-top: 100px;
+    max-width: 100%;
+    border-radius: 5%;
+}
+#subl{
+    text-decoration: underline; color: white;
+    text-decoration-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    padding: 20px;
+}
+#subl{
+    font-size: 40px;
+    font-style: initial;
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+}
+#p1{
+    font-size: large;
+   
+}
+#oqueeumaods{
+    font-size: 40px;
+    font-style: italic;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0);
+    color: black;
+}
+#p1{
+    font-size: 30px;
+
+}
+
+#p2{
+    font-size: 30px;
+}
+
+#p3{
+    font-size: 30px;
+}
+
+#h1{
+    font-size: 30px
+}
+
+#h2{
+    font-size: 30px;
+}
+
+#h3{
+    font-size: 30px;
+}
+
+
+/* CSS media query dentro de um stylesheet */
+@media (max-width: 430px) {
+    #video{ 
+        width: 500px;
+        height: 300px;
+    } 
+      }
+
+#imagemright{
+    align-items: self-end;
+}
+#botao{
+    padding: 20px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 50px;
+    
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+#imgpng{
+    border:none;
+    width: 200px;
+}
+#imgpng2{
+    border:none;
+    width: 200px;
+
+}
+#icones{
+    display: flex;
+}
+#h1f{
+    padding: 5px;
+    border-radius: 50px;
+    font-size:40px;
+    background-color: rgba(66, 66, 66, 0);
+    color: rgb(0, 0, 0);
+    background-color: rgba(121, 121, 121, 0.151);
+    border-style: inherit;
+   
+}
+#imgflex{
+   width: 40%;
+   border-radius: 10px;
+}
+
+#imgflex1{
+    display: flex;
+    text-align: left;
+    gap: 20px;
+    align-items: center;
+}
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.pflex{
+    width: 70%;
+    font-size: 30px;
+}
+#imgr2{
+    border-radius: 50px;
+}
+#imgr1{
+    border-radius: 50px;
+}
+#imgpi{
+    border-radius: 80px;
+}
